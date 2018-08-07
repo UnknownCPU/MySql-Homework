@@ -43,4 +43,4 @@ VALUES (9, "deadpool t-shirt", "t-shirt department", 10, 100);
 INSERT INTO products (item_id, product_name, department_name, price, stock_quantity)
 VALUES (10, "deadpool video game", "video game department", 30, 100);
 
-SELECT * FROM products
+SELECT * FROM products;

@@ -1,0 +1,22 @@
+{
+  "name": "mysql-homework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bamazon.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UnknownCPU/MySql-Homework.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UnknownCPU/MySql-Homework/issues"
+  },
+  "homepage": "https://github.com/UnknownCPU/MySql-Homework#readme",
+  "dependencies": {
+    "prompt": "^1.0.0"
+  }
+}
